@@ -1,0 +1,5 @@
+D:\TUTORIALTEST\Replicon_II\Replicon_II\bin\Debug\Replicon_II.exe.config
+D:\TUTORIALTEST\Replicon_II\Replicon_II\bin\Debug\Replicon_II.exe
+D:\TUTORIALTEST\Replicon_II\Replicon_II\bin\Debug\Replicon_II.pdb
+D:\TUTORIALTEST\Replicon_II\Replicon_II\obj\Debug\Replicon_II.exe
+D:\TUTORIALTEST\Replicon_II\Replicon_II\obj\Debug\Replicon_II.pdb
